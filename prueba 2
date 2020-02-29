@@ -1,0 +1,9 @@
+print("Datos Personales")
+print()
+Nombre = input("Ingrese su nombre completo: ")
+Edad = int(input("Ingrese su edad: "))
+print("")
+print("Usted se llama: " + Nombre)
+print("Su edad es: " + str (Edad))
+
+  
